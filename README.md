@@ -1,5 +1,5 @@
 # Olá, eu sou o Ralph Sonato! 👋
-### Analista de Cibersegurança | Cloud Pentesting Offensive Security & Purple Team Mindset 🛡️⚔️
+### Analista de Cibersegurança | Cloud Pentesting | Offensive Security & Purple Team Mindset 🛡️⚔️
 
 Sou um profissional apaixonado por segurança ofensiva, focado em elevar a maturidade de ambientes corporativos através da união entre o ataque e a defesa. Acredito que a melhor forma de defender uma infraestrutura é compreendendo profundamente como ela pode ser explorada.
 
