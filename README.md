@@ -41,5 +41,3 @@ Focado em evolução contínua, estou em preparação ativa para as seguintes ce
 Acredito no poder da comunidade brasileira de Cyber. Compartilho minha jornada e conhecimentos técnicos no:
 * **YouTube:** https://www.youtube.com/@ralphsonato
 
----
-📫 **Como me encontrar:** [Seu E-mail Profissional Aqui]
