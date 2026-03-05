@@ -5,7 +5,6 @@ Sou um profissional apaixonado por segurança ofensiva, focado em elevar a matur
 
 Estou no último ano de Defesa Cibernética pela FIAP e já iniciei minha especialização na pós-graduação em Cyber Offensive e Red Team Operations pela Faculdade Impacta
 
-Atualmente, atuo administrando e integrando ferramentas como **Wazuh, Cloudflare, FortiGate, Microsoft Azure e AWS**.
 
 ---
 
