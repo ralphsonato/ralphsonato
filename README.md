@@ -1,35 +1,17 @@
-# Olá, eu sou o Ralph Sonato! 👋
-### Analista de Cibersegurança | Cloud Pentesting | Offensive Security & Purple Team Mindset 🛡️⚔️
+# Ralph Sonato
 
-Sou um profissional apaixonado por segurança ofensiva, focado em elevar a maturidade de ambientes corporativos através da união entre o ataque e a defesa. Acredito que a melhor forma de defender uma infraestrutura é compreendendo profundamente como ela pode ser explorada.
+> **Offensive Security | Red Team | Pentester | Purple Team | Cloud Security**
+>
+> *Sou um profissional de segurança da informação com foco em segurança ofensiva. Atualmente, curso Defesa Cibernética (FIAP) e Pós-graduação em Red Team Operations (Impacta), unindo a mentalidade de ataque com a estratégia de defesa (Purple Team) para fortalecer infraestruturas corporativas.*
 
-Estou no último ano de Defesa Cibernética pela FIAP e já iniciei minha especialização na pós-graduação em Cyber Offensive e Red Team Operations pela Faculdade Impacta
+---
+
+### 🎖️ Certificações
+`eJPT` `CRTA` `CRT-ID` `MCRTA` `CBTeamer` `MCBTA` `SEC1`
 
 
 ---
 
-## 🎖️ Certificações Atuais
-* **eJPT** (Junior Penetration Tester)
-* **CRTA** (Certified Red Team Analyst)
-* **CBTeamer** (Certified Blue Teamer)
-* **CRT-ID** (Certified Red Team Infra Dev)
-* **SEC1** (Cyber Security 101)
-* **MCRTA** (Multi-Cloud Red Team Analyst)
-* **MCBTA** (Multi-Cloud Blue Team Analyst)
-
----
-
-## 🎯 Roadmap 2026 (Modo Guerra)
-Focado em evolução contínua, estou em preparação ativa para as seguintes certificações este ano:
-* [ ] AWS Certified Cloud Practitioner ☁️
-* [ ] CompTIA Security+ 🔐
-* [ ] eCPPTv3 - Certified Professional Penetration Tester 🚩
-* [ ] CNPen - Certified Network Pentester 🛡️
-* [ ] eCPTHv2 - Certified Professional Threat Hunter 🕵️‍♂️
-
----
-
-## 📱 Conteúdo & Comunidade
-Acredito no poder da comunidade brasileira de Cyber. Compartilho minha jornada e conhecimentos técnicos no:
-* **YouTube:** https://www.youtube.com/@ralphsonato
-
+### 📱 Conecte-se Comigo
+[![YouTube](https://img.shields.io/badge/YouTube-@ralphsonato-red?style=flat-square&logo=youtube)](https://www.youtube.com/@ralphsonato)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ralph_Sonato-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/SEU_USER_AQUI)
