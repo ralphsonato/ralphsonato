@@ -14,4 +14,4 @@
 
 ### 📱 Conecte-se Comigo
 [![YouTube](https://img.shields.io/badge/YouTube-@ralphsonato-red?style=flat-square&logo=youtube)](https://www.youtube.com/@ralphsonato)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ralph_Sonato-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/SEU_USER_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ralph_Sonato-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ralph-sonato-77086b16b/)
