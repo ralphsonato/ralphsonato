@@ -17,5 +17,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-Ralph_Sonato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <br>
-  <sub>Analista de Cibersegurança | Pentester | Red Team</sub>
+  <sub></sub>
 </div>
