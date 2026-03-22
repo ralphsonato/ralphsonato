@@ -7,7 +7,7 @@
 ---
 
 ### 🎖️ Certificações
-`eJPT` `CRTA` `CRT-ID` `MCRTA` `CBTeamer` `MCBTA` `SEC1` `Web-RTA`
+`eJPT` `CRTA` `CRT-ID` `MCRTA` `CBTeamer` `MCBTA` `SEC1` `Web-RTA` `API-RTA`
 
 
 ---
